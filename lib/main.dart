@@ -1,6 +1,6 @@
 /*
 PROGRAM: SIMPLE CALCULATOR
-Author: Matthew Miracle Chinedum
+Author: ANGEL RUTH
 Algorithm:
 1. Welcome User
 2. Get user name and Email
